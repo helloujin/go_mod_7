@@ -1,2 +1,2 @@
-# go_mod_7
-For module 7 SF practice 
+# go_mod_8
+For module 8 SF practice 
